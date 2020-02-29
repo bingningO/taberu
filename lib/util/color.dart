@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';const MaterialColor MainColor =  Colors.blue;
